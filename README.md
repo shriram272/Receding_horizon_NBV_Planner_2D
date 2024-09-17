@@ -106,7 +106,10 @@ Mathematics and Logic:
     best_route[1],self.planned_paths[agent_id]
 
 
+
 RESULTS
+
+
 ![0_1_samples](https://github.com/user-attachments/assets/f95466a7-4d85-4f7b-8c0c-dfa7518bd852)
 
 ![0_6_samples](https://github.com/user-attachments/assets/24dd26d0-ff61-455b-97ae-e6817025ac14)
